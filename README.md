@@ -20,3 +20,7 @@ Official spec: https://tc39.es/ecma262/multipage/strict-mode-of-ecmascript.html
 ## Supported new things, which throws exception before ECMAScript 5
 
 0. [Support duplicated properties names](./00-support-duplicated-properties-names.js)
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
